@@ -49,11 +49,7 @@ This document assumes you already have your environemtn ready to run iOS and And
 - Scan the QR code in your terminal or from the Expo dev tools browser window that opened automatically when you started the project.
 
 ## iOS Images
-<img src="./assets/images/readmeImgs/iOS1.png" alt="screen" width="200" />
-<img src="./assets/images/readmeImgs/iOS2.png" alt="screen" width="200" />
-<img src="./assets/images/readmeImgs/iOS3.png" alt="screen" width="200" />
+<img src="./assets/images/readmeImgs/iOS1.png" alt="screen" width="200" /> <img src="./assets/images/readmeImgs/iOS2.png" alt="screen" width="200" /> <img src="./assets/images/readmeImgs/iOS3.png" alt="screen" width="200" />
 
 ## Android Images
-<img src="./assets/images/readmeImgs/Android1.png" alt="screen" width="200" />
-<img src="./assets/images/readmeImgs/Android2.png" alt="screen" width="200" />
-<img src="./assets/images/readmeImgs/Android3.png" alt="screen" width="200" />
+<img src="./assets/images/readmeImgs/Android1.png" alt="screen" width="200" /> <img src="./assets/images/readmeImgs/Android2.png" alt="screen" width="200" /> <img src="./assets/images/readmeImgs/Android3.png" alt="screen" width="200" />
